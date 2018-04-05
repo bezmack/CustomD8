@@ -1,0 +1,4 @@
+name: custom-drupal
+recipe: drupal8
+config:
+  webroot: .
